@@ -1,1 +1,1 @@
-# live-crypto-tracker
+# Live Crypto Tracker
